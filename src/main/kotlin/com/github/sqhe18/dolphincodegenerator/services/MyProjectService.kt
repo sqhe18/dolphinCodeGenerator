@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.sqhe18.dolphincodegenerator.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sqhe18.dolphincodegenerator.MyBundle
 
 class MyProjectService(project: Project) {
 
